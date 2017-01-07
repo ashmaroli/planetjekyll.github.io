@@ -5,7 +5,7 @@ title: 'Planet Jekyll'
 
 ## note: in path do NOT include root (trailing slash) e.g. (/) - use empty string instead
 path:    ''
-baseurl: ''
+baseurl: '/planetjekyll.github.io'
 url:   'http://planetjekyll.github.io'
 
 
